@@ -3,7 +3,7 @@ Chemical composition classification of pottery types found at different Maya arc
 
 TO DOWNLOAD: 
 
-Download Maya_Pottery_Classification 2.0.zip file and extract it (it contains the excel data and the python files needed). Make sure all of the files are in the same folder or else the (Analysis_of_mayan_pottery.py) file won't run. Developed in Spyder IDE (recommended for user usage as well).
+Download Maya_Pottery_Classification 2.0 file, it contains the excel data and the python files needed. Make sure all of the files are in the same folder or else the Analysis_of_mayan_pottery.py script won't run correctly. Developed in Spyder IDE (recommended for user usage as well).
 
-classificaiton-code.py is an earlier version of this project with only two localities. Use the zip file version for more extensive classifications.
+classification-code.py is an earlier version of this project with only two localities. Use the 2.0 version for more extensive locality classifications.
 
