@@ -1,0 +1,4 @@
+postclassic_maya_ceramic_database_pottery.xlsx data comes from the now defunct Postclassic Ceramic Database that was ran by Dr. Leslie G. Cecil at Steven F. Austin State University.
+I manually entered all the chemical data into the excel file from each ceramics pdf file (detailing the chemicals and specimen details).
+
+All other datasets were downloaded from tdar (The Digital Antiquity Repository) or from MURR (University of Missouri Research Reactor).
