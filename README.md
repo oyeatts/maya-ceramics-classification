@@ -7,4 +7,4 @@ Download Maya_Pottery_Classification 2.0 files (or the zip file and extract), it
 
 classification-code.py is an earlier version of this project with only two localities. Use the 2.0 version for more extensive locality classifications.
 
-For a walkthrough of the process used check out the walk
+For a walkthrough of the process used check out the jupyter_walkthrough.ipynb notebook.
